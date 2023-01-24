@@ -1,0 +1,26 @@
+body{
+    background-image: url(/images/ZOXKmx.webp);
+}
+.first {
+    text-align: center;
+    /* background-image: url(/images/istockphoto-1208168855-170667a.jpg); */
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right center;
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.first h1 {
+    font-size: 30px;
+    font-weight: 600;
+    font-style: italic;
+    color: rgb(101, 221, 21);
+    padding: 30px;
+}
+.first img{
+    padding: 10px;
+    margin-left: 200px;
+}
